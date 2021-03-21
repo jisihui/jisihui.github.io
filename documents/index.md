@@ -1,35 +1,35 @@
 "Face2Wav samples" 
 ### Aaron Rodgers, n000017, male (Name, id in VGGFace2, gender)
 
-![Image](face images/Aaron_Rodgers.jpg)
+![Image](face images/Aaron Rodgers.jpg)
 <audio controls="controls" > <source src="wav from face/n000017.wav" autoplay/></audio> | <audio controls="controls" > <source src="wav from speech/n000017.wav" autoplay/> Your browser does not support the audio element. </audio>
 
 
 ### Adam Rodríguez, n000061, male
 
-![Image](face images/Adam_Rodríguez.jpg)
+![Image](face images/Adam Rodríguez.jpg)
 <audio controls="controls" > <source src="wav from face/n000061.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav from speech/n000061.wav" autoplay/> Your browser does not support the audio element. </audio>
 
 
 ### Ashley Tisdale, n000812, female
 
-![Image](face images/Ashley-Tisdale.jpg)
+![Image](face images/Ashley Tisdale.jpg)
 <audio controls="controls" > <source src="wav from face/n000812.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav from speech/n000812.wav" autoplay/> Your browser does not support the audio element. </audio>
 
 
 ### Darius Rucker, n001988, male
 
-![Image](face images/Darius_Rucker.jpg)
+![Image](face images/Darius Rucker.jpg)
 <audio controls="controls" > <source src="wav from face/n001988.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav from speech/n001988.wav" autoplay/> Your browser does not support the audio element. </audio>
 
 ### Fan Bingbing, n002724, female
 
-![Image](face images/Fan_Bingbing.jpg)
+![Image](face images/Fan Bingbing.jpg)
 <audio controls="controls" > <source src="wav from face/n002724.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav from speech/n002724.wav" autoplay/> Your browser does not support the audio element. </audio>
 
 ### Georges St Pierre, n003029, male
 
-![Image](face images/Georges_St-Pierre.png)
+![Image](face images/Georges St Pierre.png)
 <audio controls="controls" > <source src="wav from face/n003029.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav from speech/n003029.wav" autoplay/> Your browser does not support the audio element. </audio>
 
 ### Gisele Bündchen, n003126, female
@@ -46,7 +46,7 @@
 
 ### Ian McKellen, n003523, male
 
-![Image](face images/Ian_McKellen.png)
+![Image](face images/Ian McKellen.png)
 <audio controls="controls" > <source src="wav from face/n003523.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav from speech/n003523.wav" autoplay/> Your browser does not support the audio element. </audio>
 
 
@@ -94,7 +94,7 @@
 
 ### Sasha Alexander, n007801, female
 
-![Image](face images/Sasha_Alexander.jpg)
+![Image](face images/Sasha Alexander.jpg)
 <audio controls="controls" > <source src="wav from face/n007801.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav from speech/n007801.wav" autoplay/> Your browser does not support the audio element. </audio>
 
 
